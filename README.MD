@@ -5,8 +5,6 @@
 
 Projeto com o objetivo de criar uma planilha para controle de gastos financeiros e demonstrar capacidade da IA em interpretação de planilhas.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
