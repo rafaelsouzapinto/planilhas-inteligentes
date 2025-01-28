@@ -15,7 +15,7 @@ Projeto com o objetivo de criar uma planilha para controle de gastos financeiros
 - Planilhas criadas pelo Excel
 - interpretação e leitura das planilhas realizada pelo ChatGPT
 
-## 👨‍💻 Expert
+## Autor ✏
 
 <p>
     <img 
